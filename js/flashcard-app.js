@@ -110,6 +110,7 @@ var cardManager = function() {
 				nextCard();
 				showQuestion(currentCard);
 				showAnswer(currentCard);
+				$('#flashcard-answer').hide();
 
 			});
 
