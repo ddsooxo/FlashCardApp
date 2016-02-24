@@ -118,6 +118,7 @@ var cardManager = function() {
         previousCard();
         showQuestion(currentCard);
         showAnswer(currentCard);
+        $('#flashcard-answer').hide();
       });
 
       $("#shuffle-card").click(function(){
