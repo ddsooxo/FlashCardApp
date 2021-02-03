@@ -4,7 +4,6 @@
 * Create an object with an Array of objects
 * Give the objects inside the array question and answer properties
 * Give those properties values. Those values should be things you've learned today (shortcuts, syntax, git etc.)
-* 
 
 # What You Have Done!
 
